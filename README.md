@@ -1,2 +1,2 @@
 # seguridadInformatica
-Repositorio Creado para el seminario de seguridad informatica
+Repositorio creado para el seminario de seguridad informatica
